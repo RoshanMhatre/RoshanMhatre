@@ -2,7 +2,7 @@
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/RoshanMhatre) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RoshanMhatre.RoshanMhatre)
-[![Repos Badge](https://badges.pufler.dev/repos/AkashSingh3031)](https://github.com/RoshanMhatre?tab=repositories) 
+[![Repos Badge](https://badges.pufler.dev/repos/RoshanMhatre)](https://github.com/RoshanMhatre?tab=repositories) 
 [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:roshanmhatre989@gmail.com)
 - 👀 I’m interested in collaborating with new people and work on exciting and challenging projects.
 - 🌱 I’m currently learning and improving my hold on web technologies.
