@@ -20,7 +20,7 @@
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" height="40"/></code> 
   <code><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="css3" height="40"/></code>
   <code><img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="BootStrap" width="40" height="40"/></code>
-  <code><img src="https://toppng.com/uploads/preview/ithub-comments-github-ico-11563219062bewb1s1mzy.png" alt="git" width="40" height="40"/></code>
+  <code><img src="https://www.shareicon.net/data/128x128/2015/12/01/680725_network_512x512.png" alt="git" width="45" height="40"/></code>
   <code><img src="https://e7.pngegg.com/pngimages/914/758/png-clipart-computer-icons-logo-github-github-logo-logo-computer-program-thumbnail.png" alt="Github" width="40" height="40"/></code>
   <code><img src="https://icon2.cleanpng.com/20180315/ifq/kisspng-postgresql-logo-computer-software-database-open-source-vector-images-5aaa26e1a38cf4.7370214515211005136699.jpg" alt="mysql" width="40" height="40"/></code>
   <code><img src="https://www.clipartmax.com/png/middle/249-2494952_penguin-clipart-profile-linux-logo-vector.png" alt="Linux" width="40" height="40"/></code>
