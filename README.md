@@ -16,14 +16,15 @@
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C" width="40" height="40"/></code>
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/></code>
   <code><img src="https://img1.pnghut.com/18/7/13/XK5WbMvwF8/programming-language-java-software-developer-text-virtual-machine.jpg" alt="Java" width="40" height="40"/></code> 
-  <code><img src="https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png" alt="python" width="40" height="40"/></code>  
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/html5-original-wordmark.svg" alt="html5" height="40"/></code> 
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/css3-original-wordmark.svg" alt="css3" height="40"/></code>  
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/github(color).png" alt="Github" width="40" height="40"/></code>
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/linux-original.svg" alt="Linux" width="40" height="40"/></code>
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/django-original.svg" alt="Django" width="40" height="40"/></code>
+  <code><img src="https://mpng.subpng.com/20180811/pul/kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solution-5b6ee0c863a5a1.6306397415339931604082.jpg" alt="python" width="40" height="40"/></code>  
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" height="40"/></code> 
+  <code><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="css3" height="40"/></code>
+  <code><img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="BootStrap" width="40" height="40"/></code>
+  <code><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/></code>
+  <code><img src="https://e7.pngegg.com/pngimages/914/758/png-clipart-computer-icons-logo-github-github-logo-logo-computer-program-thumbnail.png" alt="Github" width="40" height="40"/></code>
+  <code><img src="https://icon2.cleanpng.com/20180315/ifq/kisspng-postgresql-logo-computer-software-database-open-source-vector-images-5aaa26e1a38cf4.7370214515211005136699.jpg" alt="mysql" width="40" height="40"/></code>
+  <code><img src="https://www.clipartmax.com/png/middle/249-2494952_penguin-clipart-profile-linux-logo-vector.png" alt="Linux" width="40" height="40"/></code>
+  <code><img src="https://banner2.cleanpng.com/20180805/hho/kisspng-django-python-computer-icons-logo-portable-network-django-python-recruitment-task-1-5b6748f3586dc6.0530431515334955393622.jpg" alt="Django" width="40" height="40"/></code>
 </p>
 
 ![Roshan's github stats](https://github-readme-stats.vercel.app/api?username=RoshanMhatre&show_icons=true&hide_border=true)
