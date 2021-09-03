@@ -21,9 +21,8 @@
   <code><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="css3" height="40"/></code>
   <code><img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="BootStrap" width="40" height="40"/></code>
   <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzLPz1h00MkCsXnWyxPFVjHNs0QG8HDxxEnk12jUyYjQyADIQCyyB0pP8pGCoB0BYy0nE&usqp=CAU" alt="Github" width="40" height="40"/></code>
-  <code><img src="https://icon2.cleanpng.com/20180315/ifq/kisspng-postgresql-logo-computer-software-database-open-source-vector-images-5aaa26e1a38cf4.7370214515211005136699.jpg" alt="mysql" width="40" height="40"/></code>
-  <code><img src="https://www.clipartmax.com/png/middle/249-2494952_penguin-clipart-profile-linux-logo-vector.png" alt="Linux" width="40" height="40"/></code>
-  <code><img src="https://banner2.cleanpng.com/20180805/hho/kisspng-django-python-computer-icons-logo-portable-network-django-python-recruitment-task-1-5b6748f3586dc6.0530431515334955393622.jpg" alt="Django" width="40" height="40"/></code>
+  <code><img src="https://www.citusdata.com/assets/images/postgres-on-darkgray-d420c075.png" alt="postgresql" width="40" height="40"/></code>
+  <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5BhY2diyMgufibpHCBN0gnRHxmTGe1jw70A&usqp=CAU" alt="Linux" width="40" height="40"/></code>
 </p>
 
 ![Roshan's github stats](https://github-readme-stats.vercel.app/api?username=RoshanMhatre&show_icons=true&hide_border=true)
