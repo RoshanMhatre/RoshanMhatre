@@ -21,8 +21,8 @@
   <code><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="css3" height="40"/></code>
   <code><img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="BootStrap" width="40" height="40"/></code>
   <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzLPz1h00MkCsXnWyxPFVjHNs0QG8HDxxEnk12jUyYjQyADIQCyyB0pP8pGCoB0BYy0nE&usqp=CAU" alt="Github" width="40" height="40"/></code>
-  <code><img src="https://www.citusdata.com/assets/images/postgres-on-darkgray-d420c075.png" alt="postgresql" width="40" height="40"/></code>
-  <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5BhY2diyMgufibpHCBN0gnRHxmTGe1jw70A&usqp=CAU" alt="Linux" width="40" height="40"/></code>
+  <code><img src="https://www.citusdata.com/assets/images/postgres-on-darkgray-d420c075.png" alt="postgresql" width="50" height="40"/></code>
+  <code><img src="https://cache.desktopnexus.com/thumbseg/299/299226-bigthumbnail.jpg" alt="Linux" width="40" height="40"/></code>
 </p>
 
 ![Roshan's github stats](https://github-readme-stats.vercel.app/api?username=RoshanMhatre&show_icons=true&hide_border=true)
