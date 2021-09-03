@@ -16,7 +16,7 @@
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C" width="40" height="40"/></code>
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/></code>
   <code><img src="https://kevinfream.files.wordpress.com/2013/01/java.jpg" alt="Java" width="60" height="40"/></code> 
-  <code><img src="https://mpng.subpng.com/20180811/pul/kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solution-5b6ee0c863a5a1.6306397415339931604082.jpg" alt="python" width="40" height="40"/></code>  
+  <code><img src="https://learnwithshashank.com/coding/wp-content/uploads/2020/08/2f9c11f9e55efbf1791f12c06d60729b-2.jpg" alt="python" width="40" height="40"/></code>  
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" height="40"/></code> 
   <code><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="css3" height="40"/></code>
   <code><img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="BootStrap" width="40" height="40"/></code>
