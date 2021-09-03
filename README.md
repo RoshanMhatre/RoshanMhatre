@@ -14,9 +14,9 @@
 
 <p align="left">
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C" width="40" height="40"/></code>
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/cplusplus-original.svg" alt="C++" width="40" height="40"/></code>
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/java-original.svg" alt="Java" width="40" height="40"/></code> 
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/python-original.svg" alt="python" width="40" height="40"/></code>  
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/></code>
+  <code><img src="https://img1.pnghut.com/18/7/13/XK5WbMvwF8/programming-language-java-software-developer-text-virtual-machine.jpg" alt="Java" width="40" height="40"/></code> 
+  <code><img src="https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png" alt="python" width="40" height="40"/></code>  
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/html5-original-wordmark.svg" alt="html5" height="40"/></code> 
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/css3-original-wordmark.svg" alt="css3" height="40"/></code>  
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
