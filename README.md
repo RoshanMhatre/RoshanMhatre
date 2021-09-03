@@ -13,7 +13,7 @@
 ### :zap: My Tech Toolbox 🧰
 
 <p align="left">
-  <code><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimple.wikipedia.org%2Fwiki%2FC_(programming_language)&psig=AOvVaw1DoHQdpBw9kfeQ9x5fSweW&ust=1630719902055000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDKkrPX4fICFQAAAAAdAAAAABAD" alt="C" width="40" height="40"/></code>
+  <code><img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="C" width="40" height="40"/></code>
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/cplusplus-original.svg" alt="C++" width="40" height="40"/></code>
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/java-original.svg" alt="Java" width="40" height="40"/></code> 
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/python-original.svg" alt="python" width="40" height="40"/></code>  
