@@ -1,6 +1,6 @@
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , I’m @RoshanMhatre, a Tech Enthusiast🤎
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/RoshanMhatre) 
+[![Hello, Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/RoshanMhatre) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RoshanMhatre.RoshanMhatre)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/RoshanMhatre) 
 [![Repos Badge](https://badges.pufler.dev/repos/RoshanMhatre)](https://github.com/RoshanMhatre?tab=repositories) 
