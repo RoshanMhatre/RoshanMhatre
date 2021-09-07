@@ -27,5 +27,3 @@
 
 ![Roshan's github stats](https://github-readme-stats.vercel.app/api?username=RoshanMhatre&show_icons=true&hide_border=true)
 <br />
-![My github activity graph](https://activity-graph.herokuapp.com/graph?username=RoshanMhatre&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
-
