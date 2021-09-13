@@ -2,11 +2,11 @@
 
  ## I🧡Web Dev and I'm an Open-Source Enthusiast. ##
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/RoshanMhatre) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=RoshanMhatre.RoshanMhatre)
-[![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:officialroshanm@gmail.com)
+
+- Connect with me -> [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:officialroshanm@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/roshan-mhatre-3ab9b0191/) 
 [![Connect on Twitter](https://img.shields.io/badge/--Twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/mr_rdm_)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=RoshanMhatre.RoshanMhatre)
 - You can checkout my [portfolio🌟](https://roshanmhatre.github.io/my-portfolio/)
 
 ### 💻 Stack I Work With
@@ -22,6 +22,10 @@
  <br>
  
 <img src="https://img.shields.io/badge/HTML5-07405E?style=for-the-badge&logo=html5&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/CSS3-07405E?style=for-the-badge&logo=css3&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/BootStrap4-07405E?style=for-the-badge&logo=bootstrap4&logoColor=white" height="25">
+<br>
+
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
 
