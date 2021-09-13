@@ -34,9 +34,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="25">
 
-
-
-### Statistics 
+### 🌟Statistics
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RoshanMhatre&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RoshanMhatre&theme=tokyonight" />
