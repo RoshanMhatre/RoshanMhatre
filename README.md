@@ -2,11 +2,10 @@
 
  ## I🧡Web Dev and I'm an Open-Source Enthusiast. ##
 
-
-- Connect with me -> [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:officialroshanm@gmail.com)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=RoshanMhatre.RoshanMhatre)
+[![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:officialroshanm@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/roshan-mhatre-3ab9b0191/) 
 [![Connect on Twitter](https://img.shields.io/badge/--Twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/mr_rdm_)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=RoshanMhatre.RoshanMhatre)
 - You can checkout my [portfolio🌟](https://roshanmhatre.github.io/my-portfolio/)
 
 ### 💻 Stack I Work With
@@ -23,7 +22,7 @@
  
 <img src="https://img.shields.io/badge/HTML5-07405E?style=for-the-badge&logo=html5&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/CSS3-07405E?style=for-the-badge&logo=css3&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/BootStrap4-07405E?style=for-the-badge&logo=bootstrap4&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/BootStrap4-07405E?style=for-the-badge&logo=bootstrap&logoColor=white" height="25">
 <br>
 
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="25">
@@ -31,8 +30,8 @@
 
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/GitHub-F05032?style=for-the-badge&logo=github&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="25">
 
 
