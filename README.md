@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/HTML5-07405E?style=for-the-badge&logo=html5&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/CSS3-07405E?style=for-the-badge&logo=css3&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/BootStrap4-07405E?style=for-the-badge&logo=bootstrap&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="25">
 <br>
 
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="25">
@@ -32,7 +33,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/GitHub-F05032?style=for-the-badge&logo=github&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="25">
 
 ### 🌟Statistics
 <p align="center">
