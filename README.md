@@ -2,11 +2,21 @@
 
 ## I 🧡 Web Dev and I'm an Open-Source Enthusiast
 
-[![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:officialroshanm@gmail.com)
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/roshan-mhatre-3ab9b0191/)
-[![Connect on Twitter](https://img.shields.io/badge/--Twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/roshanmtwt)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=RoshanMhatre.RoshanMhatre)
-
+<p>
+ <a href="https://twitter.com/roshanmtwt" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-Roshan%20Mhatre-blue?logo=twitter&logoColor=blue&color=blue" />
+ </a>
+  <a href="https://www.linkedin.com/in/roshan-mhatre-3ab9b0191/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Roshan%20Mhatre-blue?logo=linkedin&logoColor=blue&color=blue" />
+ </a>
+ <a href="https://instagram.com/roshanmig" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-Roshan%20Mhatre-blue?logo=instagram&logoColor=blue&color=blue" />
+ </a>
+  <a href="mailto:officialroshanmgmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Mail-Roshan%20Mhatre-blue?logo=gmail&logoColor=blue&color=blue" />
+ </a>
+ </p>
+ 
 - You can checkout my [portfolio🌟](https://roshanmhatre.github.io/my-portfolio/)
 
 ### 💻 Stack I Work With
@@ -42,3 +52,5 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RoshanMhatre&theme=tokyonight" />
 </p>
 <br />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=RoshanMhatre.RoshanMhatre)
