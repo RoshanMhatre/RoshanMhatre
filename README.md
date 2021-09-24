@@ -3,17 +3,17 @@
 ## I 🧡 Web Dev and I'm an Open-Source Enthusiast
 
 <p>
- <a href="https://twitter.com/roshanmtwt" target="_blank" rel="noopener noreferrer">
+ <a href="https://twitter.com/roshanmtwt" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Roshan%20Mhatre-blue?logo=twitter&logoColor=blue&color=blue" />
  </a>
-  <a href="https://www.linkedin.com/in/roshan-mhatre-3ab9b0191/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/roshan-mhatre-3ab9b0191/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Roshan%20Mhatre-blue?logo=linkedin&logoColor=blue&color=blue" />
  </a>
- <a href="https://instagram.com/roshanmig" target="_blank" rel="noopener noreferrer">
+ <a href="https://instagram.com/roshanmig" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Roshan%20Mhatre-blue?logo=instagram&logoColor=blue&color=blue" />
  </a>
   <a href="mailto:officialroshanmgmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Mail-Roshan%20Mhatre-blue?logo=gmail&logoColor=blue&color=blue" />
+    <img src="https://img.shields.io/badge/Mail-officialroshanm@gmail.com%20-blue?logo=gmail&logoColor=blue&color=blue" />
  </a>
  </p>
  
