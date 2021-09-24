@@ -4,7 +4,7 @@
 
 [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:officialroshanm@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/roshan-mhatre-3ab9b0191/)
-[![Connect on Twitter](https://img.shields.io/badge/--Twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/mr_rdm_)
+[![Connect on Twitter](https://img.shields.io/badge/--Twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/roshanmtwt)
 
 - You can checkout my [portfolio🌟](https://roshanmhatre.github.io/my-portfolio/)
 
