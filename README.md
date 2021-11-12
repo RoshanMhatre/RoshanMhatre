@@ -17,7 +17,7 @@
  </a>
  </p>
  
-- You can checkout my [portfolio🌟](https://roshanmhatre.github.io/my-portfolio/)
+Checkout my [portfolio🌟](https://roshanmhatre.github.io/my-portfolio/)
 
 ### 💻 Stack I Work With
 
