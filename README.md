@@ -28,7 +28,7 @@ Checkout my [portfolio🌟](https://roshanmhatre.github.io/my-portfolio/)
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Python-092E20?style=for-the-badge&logo=python&logoColor=white" height="25">
 <br>
 
 <img src="https://img.shields.io/badge/HTML5-07405E?style=for-the-badge&logo=html5&logoColor=white" height="25">
@@ -37,9 +37,9 @@ Checkout my [portfolio🌟](https://roshanmhatre.github.io/my-portfolio/)
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="25">
 <br>
 
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/SQLite-316192?style=for-the-badge&logo=sqlite&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Docker-ED8B00?style=for-the-badge&logo=docker&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Docker-0078D4?style=for-the-badge&logo=docker&logoColor=white" height="25">
 <br>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
@@ -48,8 +48,8 @@ Checkout my [portfolio🌟](https://roshanmhatre.github.io/my-portfolio/)
 <br>
 
 
-<img src="https://img.shields.io/badge/AWS-00BF00?style=for-the-badge&logo=aws&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/GCP-00BF00?style=for-the-badge&logo=gcp&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/AWS-00CF00?style=for-the-badge&logo=aws&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/GCP-00CF00?style=for-the-badge&logo=gcp&logoColor=white" height="25">
 <br>
 
 ### 🌟Statistics
