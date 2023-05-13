@@ -1,6 +1,4 @@
-# Hi, I’m @RoshanMhatre and I'm a Full Stack Developer🚀
-
-## I 🧡 Web Dev and I'm an Open-Source Enthusiast
+# Hi, I’m @RoshanMhatre and I love Engineering ❤️
 
 <p>
  <a href="https://twitter.com/roshanmtwt" target="_blank">
@@ -35,6 +33,7 @@ Checkout my [portfolio🌟](https://roshanmhatre.github.io/my-portfolio/)
 <img src="https://img.shields.io/badge/CSS3-07405E?style=for-the-badge&logo=css3&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/BootStrap4-07405E?style=for-the-badge&logo=bootstrap&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="25">
+<img src="https://img.shields.io/badge/Flask-092E20?style=for-the-badge&logo=flask&logoColor=green" height="25">
 <br>
 
 <img src="https://img.shields.io/badge/SQLite-316192?style=for-the-badge&logo=sqlite&logoColor=white" height="25">
@@ -43,14 +42,14 @@ Checkout my [portfolio🌟](https://roshanmhatre.github.io/my-portfolio/)
 <img src="https://img.shields.io/badge/Pytest-092E20?style=for-the-badge&logo=pytest&logoColor=green" height="25">
 <br>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/GitHub-F05032?style=for-the-badge&logo=github&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Git-00000A?style=for-the-badge&logo=git&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/GitHub-00000A?style=for-the-badge&logo=github&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
 <br>
 
 
-<img src="https://img.shields.io/badge/AWS-DDFB00?style=for-the-badge&logo=aws&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/GCP-DDFB00?style=for-the-badge&logo=gcp&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/AWS-0A2E2F?style=for-the-badge&logo=amazon&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/GCP-0A2E2F?style=for-the-badge&logo=google&logoColor=white" height="25">
 <br>
 
 ### 🌟Statistics
