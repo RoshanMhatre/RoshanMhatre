@@ -1,4 +1,4 @@
-# Hi, I’m @RoshanMhatre and I love Engineering ❤️
+# Hi, I’m RoshanMhatre and I love Engineering ❤️
 
 <p>
  <a href="https://twitter.com/roshanmtwt" target="_blank">
