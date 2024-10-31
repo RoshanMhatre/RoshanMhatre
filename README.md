@@ -14,8 +14,6 @@
     <img src="https://img.shields.io/badge/Mail-officialroshanm@gmail.com%20-blue?logo=gmail&logoColor=blue&color=blue" />
  </a>
  </p>
- 
-Checkout my [portfolio🌟](https://roshanmhatre.github.io/my-portfolio/)
 
 ### 💻 Stack I Work With
 
@@ -27,6 +25,7 @@ Checkout my [portfolio🌟](https://roshanmhatre.github.io/my-portfolio/)
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Python-092E20?style=for-the-badge&logo=python&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Javascript-009E0A?style=for-the-badge&logo=javascript&logoColor=white" height="25">
 <br>
 
 <img src="https://img.shields.io/badge/HTML5-07405E?style=for-the-badge&logo=html5&logoColor=white" height="25">
