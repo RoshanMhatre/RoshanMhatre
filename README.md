@@ -23,7 +23,7 @@
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Python-092E20?style=for-the-badge&logo=python&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Javascript-009E0A?style=for-the-badge&logo=javascript&logoColor=white" height="25">
 <br>
@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="25">
 <img src="https://img.shields.io/badge/Flask-092E20?style=for-the-badge&logo=flask&logoColor=green" height="25">
 <img src="https://img.shields.io/badge/ReactJS-009E0A?style=for-the-badge&logo=react&logoColor=green" height="25">
-<img src="https://img.shields.io/badge/NodeJS-009E0A?style=for-the-badge&logo=node&logoColor=green" height="25">
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/ExpressJS-009E0A?style=for-the-badge&logo=express&logoColor=green" height="25">
 <br>
 
@@ -52,6 +52,10 @@
 
 <img src="https://img.shields.io/badge/AWS-0A2E2F?style=for-the-badge&logo=amazon&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/GCP-0A2E2F?style=for-the-badge&logo=google&logoColor=white" height="25">
+<br>
+
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" height="25"> 
 <br>
 
 ### 🌟Statistics
