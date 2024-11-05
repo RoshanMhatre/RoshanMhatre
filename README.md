@@ -38,8 +38,6 @@
 <img src="https://img.shields.io/badge/ExpressJS-009E0A?style=for-the-badge&logo=express&logoColor=green" height="25">
 <br>
 
-<img src="https://img.shields.io/badge/SQLite-316192?style=for-the-badge&logo=sqlite&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Docker-0078D4?style=for-the-badge&logo=docker&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Pytest-092E20?style=for-the-badge&logo=pytest&logoColor=green" height="25">
 <br>
@@ -56,6 +54,12 @@
 
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="25"> 
 <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" height="25"> 
+<br>
+
+<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/SQLite-316192?style=for-the-badge&logo=sqlite&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
 <br>
 
 ### 🌟Statistics
