@@ -31,6 +31,8 @@
 <img src="https://img.shields.io/badge/HTML5-07405E?style=for-the-badge&logo=html5&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/CSS3-07405E?style=for-the-badge&logo=css3&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/BootStrap4-07405E?style=for-the-badge&logo=bootstrap&logoColor=white" height="25">
+<br>
+
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="25">
 <img src="https://img.shields.io/badge/Flask-092E20?style=for-the-badge&logo=flask&logoColor=green" height="25">
 <img src="https://img.shields.io/badge/ReactJS-009E0A?style=for-the-badge&logo=react&logoColor=green" height="25">
