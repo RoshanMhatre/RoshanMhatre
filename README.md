@@ -1,13 +1,13 @@
 # Hi, I’m RoshanMhatre and I love Engineering ❤️
 
 <p>
- <a href="https://twitter.com/roshanmtwt" target="_blank">
+ <a href="https://twitter.com/roshanmhatrex" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Roshan%20Mhatre-blue?logo=twitter&logoColor=blue&color=blue" />
  </a>
   <a href="https://www.linkedin.com/in/roshanmhatre/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Roshan%20Mhatre-blue?logo=linkedin&logoColor=blue&color=blue" />
  </a>
- <a href="https://instagram.com/roshanmig" target="_blank">
+ <a href="https://instagram.com/roshanmhatreig" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Roshan%20Mhatre-blue?logo=instagram&logoColor=blue&color=blue" />
  </a>
   <a href="mailto:officialroshanmgmail.com" target="_blank" rel="noopener noreferrer">
